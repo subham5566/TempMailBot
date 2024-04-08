@@ -11,7 +11,7 @@ import re        # Regular Expression
 
 
 # Bot token to use
-Token = "Your Token"
+Token = "SUBHAM"
 
 
 # Decode and format MIME mail
